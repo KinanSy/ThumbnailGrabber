@@ -1,3 +1,8 @@
+
+<?php
+// Powered by KinanSY
+// www.github.com/KinanSy/ThumbnailGrabber
+?>
 <html>
 	<head>
 		<title>Youtube Thumbnail</title>
